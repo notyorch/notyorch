@@ -11,6 +11,7 @@ I am currently strengthening my foundations in both data engineering and cyberse
 **Contact**
 * LinkedIn: https://www.linkedin.com/in/jorgeenriquevp/
 * Email: kingyorch@proton.me
+* Portfolio: https://whoisyorch.framer.website/
 
 Pronouns: he/him
 ## Production Projects
