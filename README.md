@@ -1,16 +1,16 @@
-<h1 align="center">Hi there, I'm Jorge Enrique 👋</h1>
+<h1 align="center">Jorge here 👋</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jorgeenriquevp/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:kingyorch@proton.me">
-    <img src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Proton_Mail-6D4AFF?style=flat-square&logo=protonmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://whoisyorch.framer.website/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=framer&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=framer&logoColor=white" alt="Portfolio" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=notyorch&style=for-the-badge&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=notyorch&style=flat-square&color=6D4AFF&label=Profile+views" alt="Profile views" />
 </p>
 
 ---
@@ -32,18 +32,18 @@ I'm currently strengthening my foundations in both **data engineering** and **cy
 
 ### 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+</p>
 
 ---
-
-### 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/notyorch/notyorch/output/github-snake-dark.svg" />
@@ -53,13 +53,9 @@ I'm currently strengthening my foundations in both **data engineering** and **cy
 
 ---
 
-### 📊 Metrics
-
 ![Metrics](https://raw.githubusercontent.com/notyorch/notyorch/main/metrics.svg)
 
 ---
-
-### 🚀 Projects
 
 #### Production Projects
 | Project | Status |
