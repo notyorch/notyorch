@@ -57,25 +57,4 @@ I'm currently strengthening my foundations in both **data engineering** and **cy
 
 ---
 
-#### Production Projects
-| Project | Status |
-| --- | --- |
-| [Pulsarr](https://github.com/notyorch/Pulsarr) | 🟡 Early Stage |
-| [friday](https://github.com/notyorch/friday) | ⚪ Not Initiated |
-
-#### Linux Apps
-| Project | Status |
-| --- | --- |
-| [Notion-for-Linux](https://github.com/notyorch/Notion-for-Linux) | 🟢 Stable |
-| [figma-linux (hardened)](https://github.com/notyorch/figma-linux) | 🧪 Testing |
-| [Notion-Calendar-for-Linux](https://github.com/notyorch/Notion-Calendar-for-Linux) | 🧪 Testing |
-| [WhatsApp-for-Linux](https://github.com/notyorch/WhatsApp-for-Linux) | 🔵 Development |
-
-#### Linux Attachments
-| Project | Status |
-| --- | --- |
-| [global-it](https://github.com/notyorch/global-it) | 📦 Pre-built |
-
----
-
 <p align="center"><i>Always learning, always building. ⚡</i></p>

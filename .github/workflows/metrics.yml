@@ -36,8 +36,7 @@ jobs:
           plugin_languages_categories: markup, programming
           plugin_languages_colors: 0:python, 1:js, 2:ts
           plugin_languages_limit: 8
-          plugin_languages_recent_categories: markup, programming
-          plugin_languages_sections: most-used, recently-used
+          plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
 
           # Coding habits and activity
