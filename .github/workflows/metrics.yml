@@ -29,6 +29,7 @@ jobs:
           filename: metrics.svg
           template: classic
           base: header, activity, community, repositories, metadata
+          config_timezone: America/Merida
 
           # Languages used across repositories
           plugin_languages: yes
